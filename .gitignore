@@ -1,3 +1,18 @@
-.pyc
-env
-ubuntuenv
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+
+# Virtual Environments
+env/
+venv/
+ubuntuenv/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+```
